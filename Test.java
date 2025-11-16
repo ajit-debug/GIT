@@ -7,5 +7,6 @@ public class Test {
         System.out.println("Sum of " + num1 + " and " + num2 + " is: " + sum);
         System.out.println("Print line2");
         System.out.println("Print line3");
+        System.out.println("Print line4");
 
 }
